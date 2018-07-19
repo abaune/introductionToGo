@@ -95,6 +95,6 @@ func main() {
 /**
 Problems:
 1. You can specify the direction of a channel with the left arrow (<-). chan<- can only be send. <-chan can only receive only.
-2.
+2. See mySleep.
 3. A buffered channel an asynchronous channel that does not wait unless the channel is already full.
 */
